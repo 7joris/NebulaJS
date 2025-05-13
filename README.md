@@ -44,7 +44,7 @@ Nebula is an all-in-one Discord bot offering advanced features for moderation, t
 
 2. **Configuration**:
 ```bash
-clone git https://github.com/your-repo/nebula-bot.git
+clone git https://github.com/7joris/NebulaJS.git
 ```
 ```bash
 cd nebula-bot

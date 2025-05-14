@@ -1,0 +1,46 @@
+{
+  "token": "",
+  "prefix": "",
+  "ticket": {
+      "channelId": "",
+      "categories": {
+          "help": "",
+          "partnership": "",
+          "purchase": ""
+      },
+      "staffRoleId": ""
+  },
+  "logs": {
+        "channelId": "",
+        "ignoredChannels": ["ID", "ID"]
+  },
+  "welcome": {
+        "channelId": "",
+        "message": "Welcome {user} on {server} !",
+        "privateMessage": "Thank you for joining {server}! Have a great time with us! 😊",
+        "embedColor": "#fae3d6",
+        "thumbnail": "",
+        "image": "",
+        "privateGoodbyeMessage": "We're sad to see you leave {server}... You can always come back anytime! ❤️"
+  },
+  "rules": {
+  "channelId": "",
+  "roleId": ""
+  },
+  "customStatus": {
+    "text": ".gg/NebulaJS",
+    "roleId": ""
+  },
+  "allowedLinkChannels": [
+    ""
+  ],
+  "linkFilter": {
+    "logChannelId": "",
+    "warningMessage": "⚠️ Links are not allowed in this channel!"
+  },
+  "voiceChannels": {
+    "creationChannelId": "",
+    "categoryId": "",
+    "allowedRoleId": ""
+  }
+}
